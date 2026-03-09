@@ -5,4 +5,5 @@ Thumbs.db
 .vite
 dist
 node_modules
-*.loggit 
+*.loggit
+T

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 高级笔记应用 Demo
 
 基于Vue 3的本地优先笔记应用，支持Markdown编辑、代码高亮和文件夹管理。
@@ -95,3 +96,6 @@ src/
 ## License
 
 MIT
+
+# ClaudeVue3Front
+Claude code参与的前端工程开发
